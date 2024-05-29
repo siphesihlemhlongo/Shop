@@ -1,0 +1,180 @@
+<div class="relative isolate px-6 pt-14 lg:px-8">
+    <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true">
+      <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#2995D0] to-[#D6D6B3] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+    </div>
+    <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <cms:set submit_success="<cms:get_flash 'submit_success' />" />
+        <cms:if submit_success >
+            <div class="success my-4 text-center text-teal-600">
+                <h4>Success: We have reserved your spot.</h4>
+            </div>
+        </cms:if>
+        
+        <cms:form
+            masterpage=k_template_name
+            mode='create'
+            enctype='multipart/form-data'
+            method='post'
+            anchor='0'
+        >
+
+        <cms:if k_success >
+
+            <cms:db_persist_form
+                _invalidate_cache='0'
+                _auto_title='1'
+                first_name=frm_first_name
+                last_name=frm_last_name
+                mobile_number=frm_mobile_number
+                email=frm_email
+                totem=frm_totem
+                birth_year=frm_birth_year
+                favorite_soccer_team=frm_favorite_soccer_team
+            />
+
+            <cms:set_flash name='submit_success' value='1' />
+            
+            <cms:redirect k_page_link />
+        
+        </cms:if>
+
+        <cms:if k_error >
+            <div class="error my-4 text-center text-md text-red-400">
+                <cms:each k_error >
+                <br><cms:show item />
+                </cms:each>
+            </div>
+        </cms:if>
+
+        <div class="space-y-12">
+          <div class="">
+            <div class="text-center">
+              <h2 class="text-xl font-semibold leading-7 text-gray-900">Reserve your Spot</h2>
+              <p class="mt-4  leading-6 text-gray-600">
+                Confirm you attendance at the Tsepang and Ruvimbo Funeral Plan Launch.
+              </p>
+              <cms:ignore>
+                <p class="mt-1 leading-6 text-gray-600">
+                  We are giving 100 Personalised Soccer Jerseys to the 1st 100 attendees
+                </p>
+              </cms:ignore>
+            </div>
+
+            <div class="mt-10 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6">
+              <div class="sm:col-span-3">
+                <label for="first_name" class="block text-sm font-medium leading-6 text-gray-900">First name</label>
+                <div class="mt-2">
+                  <cms:input type="text" name="first_name" id="first_name" required='1' class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+                </div>
+              </div>
+
+              <div class="sm:col-span-3">
+                <label for="last-name" class="block text-sm font-medium leading-6 text-gray-900">Last name</label>
+                <div class="mt-2">
+                  <cms:input type="text" name="last_name" id="last_name" required='1' class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+                </div>
+              </div>
+
+              <div class="sm:col-span-3">
+                <label for="mobile_number" class="block text-sm font-medium leading-6 text-gray-900">Mobile Number</label>
+                <div class="mt-2">
+                  <cms:input type="text" name="mobile_number" id="mobile_number" required='1' class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+                </div>
+              </div>
+
+              <div class="sm:col-span-3">
+                <label for="email" class="block text-sm font-medium leading-6 text-gray-900">Email</label>
+                <div class="mt-2">
+                  <cms:input type="text" name="email" id="email" required='1' class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <cms:ignore>
+
+            <div class="relative rounded-lg isolate flex items-center gap-x-6 overflow-hidden bg-gray-50 px-6 py-2.5 sm:px-3.5 sm:before:flex-1">
+              <div class="absolute left-[max(-7rem,calc(50%-52rem))] top-1/2 -z-10 -translate-y-1/2 transform-gpu blur-2xl" aria-hidden="true">
+                <div class="aspect-[577/310] w-[36.0625rem] bg-gradient-to-r from-[#ff80b5] to-[#9089fc] opacity-30" style="clip-path: polygon(74.8% 41.9%, 97.2% 73.2%, 100% 34.9%, 92.5% 0.4%, 87.5% 0%, 75% 28.6%, 58.5% 54.6%, 50.1% 56.8%, 46.9% 44%, 48.3% 17.4%, 24.7% 53.9%, 0% 27.9%, 11.9% 74.2%, 24.9% 54.1%, 68.6% 100%, 74.8% 41.9%)"></div>
+              </div>
+              <div class="absolute left-[max(45rem,calc(50%+8rem))] top-1/2 -z-10 -translate-y-1/2 transform-gpu blur-2xl" aria-hidden="true">
+                <div class="aspect-[577/310] w-[36.0625rem] bg-gradient-to-r from-[#ff80b5] to-[#9089fc] opacity-30" style="clip-path: polygon(74.8% 41.9%, 97.2% 73.2%, 100% 34.9%, 92.5% 0.4%, 87.5% 0%, 75% 28.6%, 58.5% 54.6%, 50.1% 56.8%, 46.9% 44%, 48.3% 17.4%, 24.7% 53.9%, 0% 27.9%, 11.9% 74.2%, 24.9% 54.1%, 68.6% 100%, 74.8% 41.9%)"></div>
+              </div>
+              <div class="text-sm leading-6 text-gray-900">
+                <div class="text-center space-y-2">
+                  <div class="font-semibold ">Hurray!!</div>
+                  <div>
+                    Because you are among the first 100 attendees to register for this event, We are giving you a Personalised Soccer Jersey.
+                    <!--😀-->
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </cms:ignore>
+
+
+            <div class="border-b border-gray-900/10 pb-12">
+              <div class="text-center">
+              <h2 class="text-xl font-semibold leading-7 text-gray-900">Get Your Personalised Soccer Jersey</h2>
+                <p class="mt-1 text-sm leading-6 text-gray-600">
+                  Provide your details below
+                </p>
+              </div>
+
+              <div class="mt-10 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6">
+                <div class="col-span-full">
+                  <label for="totem" class="block text-sm font-medium leading-6 text-gray-900">What is you Totem or Family Name?</label>
+                  <div class="mt-2">
+                    <cms:input type="text" name="totem" id="totem" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+                  </div>
+                  <p class="mt-2 text-sm text-gray-500" id="email-description">Will at the Back of the Soccer Jersey.</p>
+                </div>
+
+                <div class="col-span-full">
+                  <label for="birth_year" class="block text-sm font-medium leading-6 text-gray-900">Which year were you born?</label>
+                  <div class="mt-2">
+                    <cms:input type="text" name="birth_year" id="birth_year" required='1' class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+                  </div>
+                  <p class="mt-2 text-sm text-gray-500" id="email-description">Will be the number on the Soccer Jersey.</p>
+                </div>
+
+                <div class="col-span-full">
+                  <label for="favorite_soccer_team" class="block text-sm font-medium leading-6 text-gray-900">What is your Favorite Soccer Team?</label>
+                  <div class="mt-2">
+                    <cms:input type="text" name="favorite_soccer_team" id="favorite_soccer_team" required='1' class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+                  </div>
+                  <p class="mt-2 text-sm text-gray-500" id="email-description">The Jersey will be of your Favorite Team.</p>
+                </div>
+              </div>
+            </div>
+        
+
+          <div class="border-b border-gray-900/10 pb-12">
+            <h2 class="text-base font-semibold leading-7 text-gray-900">Want to become part of our Family?</h2>
+            <p class="mt-1 text-sm leading-6 text-gray-600">Do you want to be contacted by our sales reps to explain to you about the Tsepang and Ruvimbo Funeral Plan</p>
+
+            <div class="space-y-10">
+              <fieldset>
+                <div class="mt-6 space-y-6">
+                  <div class="relative flex gap-x-3">
+                    <div class="h-6 items-center text-sm">
+                      <cms:input id="contact_me" name="contact_me" type="bound" class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-600"/>
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-6">
+          <button type="submit" class="rounded-full bg-blue-500 px-3.5 py-3 text-sm font-semibold text-white shadow-sm hover:bg-blue-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Confirm Attendance</button>
+        </div>
+      </cms:form>
+
+    </div>
+    <div class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]" aria-hidden="true">
+      <div class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#D6D6B3] to-[#2995D0] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+    </div>
+  </div>
