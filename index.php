@@ -86,9 +86,9 @@
 	    							</p>
 	    						</div>
 	    					</div>
-    						<h3><a href="#">Nike Free RN 2019 iD</a></h3>
+    						<h3><a href="#">Dress 2024 iD</a></h3>
     						<div class="pricing">
-	    						<p class="price"><span>$120.00</span></p>
+	    						<p class="price"><span>R120.00</span></p>
 	    					</div>
 	    					<p class="bottom-area d-flex px-3">
     							<a href="#" class="add-to-cart text-center py-2 mr-1"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
@@ -100,7 +100,7 @@
     			<div class="col-sm-12 col-md-6 col-lg-3 ftco-animate d-flex">
     				<div class="product d-flex flex-column">
     					<a href="#" class="img-prod"><img class="img-fluid" src="images/siphe1.jpg" alt="Colorlib Template">
-    						<span class="status">50% Off</span>
+    						<!-- <span class="status">50% Off</span> -->
     						<!-- <div class="overlay"></div> -->
     					</a>
     					<div class="text py-3 pb-4 px-3">
@@ -118,9 +118,9 @@
 	    							</p>
 	    						</div>
 	    					</div>
-    						<h3><a href="#">Nike Free RN 2019 iD</a></h3>
+    						<h3><a href="#">Dress 2024 iD</a></h3>
   							<div class="pricing">
-	    						<p class="price"><span class="mr-2 price-dc">$120.00</span><span class="price-sale">$80.00</span></p>
+	    						<p class="price"><span class="mr-2 price-dc">R120.00</span><span class="price-sale">R80.00</span></p>
 	    					</div>
 	    					<p class="bottom-area d-flex px-3">
     							<a href="#" class="add-to-cart text-center py-2 mr-1"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
@@ -149,9 +149,9 @@
 	    							</p>
 	    						</div>
 	    					</div>
-    						<h3><a href="#">Nike Free RN 2019 iD</a></h3>
+    						<h3><a href="#">Dress 2024 iD</a></h3>
   							<div class="pricing">
-	    						<p class="price"><span>$120.00</span></p>
+	    						<p class="price"><span>R120.00</span></p>
 	    					</div>
 	    					<p class="bottom-area d-flex px-3">
     							<a href="#" class="add-to-cart text-center py-2 mr-1"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
@@ -162,7 +162,7 @@
     			</div>
     			<div class="col-sm-12 col-md-6 col-lg-3 ftco-animate d-flex">
     				<div class="product">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="images/product-4.png" alt="Colorlib Template">
+    					<a href="#" class="img-prod"><img class="img-fluid" src="images/kuhle9.jpg" alt="Colorlib Template">
     						<div class="overlay"></div>
     					</a>
     					<div class="text py-3 pb-4 px-3">
@@ -180,9 +180,9 @@
 	    							</p>
 	    						</div>
 	    					</div>
-    						<h3><a href="#">Nike Free RN 2019 iD</a></h3>
+    						<h3><a href="#">Dress 2024 iD</a></h3>
   							<div class="pricing">
-	    						<p class="price"><span>$120.00</span></p>
+	    						<p class="price"><span>R320.00</span></p>
 	    					</div>
 	    					<p class="bottom-area d-flex px-3">
     							<a href="#" class="add-to-cart text-center py-2 mr-1"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
@@ -194,7 +194,7 @@
 
     			<div class="col-sm-12 col-md-6 col-lg-3 ftco-animate d-flex">
     				<div class="product d-flex flex-column">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="images/product-5.png" alt="Colorlib Template">
+    					<a href="#" class="img-prod"><img class="img-fluid" src="images/kuhle6.jpg" alt="Colorlib Template">
     						<div class="overlay"></div>
     					</a>
     					<div class="text py-3 pb-4 px-3">
@@ -212,9 +212,9 @@
 	    							</p>
 	    						</div>
 	    					</div>
-    						<h3><a href="#">Nike Free RN 2019 iD</a></h3>
+    						<h3><a href="#">Dress 2024 iD</a></h3>
     						<div class="pricing">
-	    						<p class="price"><span>$120.00</span></p>
+	    						<p class="price"><span>R120.00</span></p>
 	    					</div>
 	    					<p class="bottom-area d-flex px-3">
     							<a href="#" class="add-to-cart text-center py-2 mr-1"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
@@ -225,9 +225,9 @@
     			</div>
     			<div class="col-sm-12 col-md-6 col-lg-3 ftco-animate d-flex">
     				<div class="product d-flex flex-column">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="images/product-6.png" alt="Colorlib Template">
-    						<span class="status">50% Off</span>
-    						<div class="overlay"></div>
+    					<a href="#" class="img-prod"><img class="img-fluid" src="images/kuhle1.jpg" alt="Colorlib Template">
+    						<!-- <span class="status">50% Off</span>
+    						<div class="overlay"></div> -->
     					</a>
     					<div class="text py-3 pb-4 px-3">
     						<div class="d-flex">
@@ -244,9 +244,9 @@
 	    							</p>
 	    						</div>
 	    					</div>
-    						<h3><a href="#">Nike Free RN 2019 iD</a></h3>
+    						<h3><a href="#">Dress 2024 iD</a></h3>
   							<div class="pricing">
-	    						<p class="price"><span class="mr-2 price-dc">$120.00</span><span class="price-sale">$80.00</span></p>
+	    						<p class="price"><span class="mr-2 price-dc">R120.00</span><span class="price-sale">R100.00</span></p>
 	    					</div>
 	    					<p class="bottom-area d-flex px-3">
     							<a href="#" class="add-to-cart text-center py-2 mr-1"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
@@ -257,7 +257,7 @@
     			</div>
     			<div class="col-sm-12 col-md-6 col-lg-3 ftco-animate d-flex">
     				<div class="product">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="images/product-7.png" alt="Colorlib Template">
+    					<a href="#" class="img-prod"><img class="img-fluid" src="images/kuhle10.jpg" alt="Colorlib Template">
 	    					<div class="overlay"></div>
 	    				</a>
     					<div class="text py-3 pb-4 px-3">
@@ -275,9 +275,9 @@
 	    							</p>
 	    						</div>
 	    					</div>
-    						<h3><a href="#">Nike Free RN 2019 iD</a></h3>
+    						<h3><a href="#">Dress 2024 iD</a></h3>
   							<div class="pricing">
-	    						<p class="price"><span>$120.00</span></p>
+	    						<p class="price"><span>R120.00</span></p>
 	    					</div>
 	    					<p class="bottom-area d-flex px-3">
     							<a href="#" class="add-to-cart text-center py-2 mr-1"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
@@ -288,7 +288,7 @@
     			</div>
     			<div class="col-sm-12 col-md-6 col-lg-3 ftco-animate d-flex">
     				<div class="product">
-    					<a href="#" class="img-prod"><img class="img-fluid" src="images/product-8.png" alt="Colorlib Template">
+    					<a href="#" class="img-prod"><img class="img-fluid" src="images/kuhle11.jpg" alt="Colorlib Template">
     						<div class="overlay"></div>
     					</a>
     					<div class="text py-3 pb-4 px-3">
@@ -306,9 +306,9 @@
 	    							</p>
 	    						</div>
 	    					</div>
-    						<h3><a href="#">Nike Free RN 2019 iD</a></h3>
+    						<h3><a href="#">Dress 2024 iD</a></h3>
   							<div class="pricing">
-	    						<p class="price"><span>$120.00</span></p>
+	    						<p class="price"><span>R220.00</span></p>
 	    					</div>
 	    					<p class="bottom-area d-flex px-3">
     							<a href="#" class="add-to-cart text-center py-2 mr-1"><span>Add to cart <i class="ion-ios-add ml-1"></i></span></a>
@@ -323,7 +323,7 @@
 
 
 
-    <section class="ftco-section ftco-choose ftco-no-pb ftco-no-pt">
+    <!-- <section class="ftco-section ftco-choose ftco-no-pb ftco-no-pt">
     	<div class="container">
 				<div class="row no-gutters">
 					<div class="col-lg-4">
@@ -379,9 +379,9 @@
     			</div>
   			</div>
     	</div>
-    </section>
+    </section> -->
 
-    <section class="ftco-section ftco-deal bg-primary">
+    <!-- <section class="ftco-section ftco-deal bg-primary">
     	<div class="container">
     		<div class="row">
     			<div class="col-md-6">
@@ -410,7 +410,7 @@
     			</div>
     		</div>
     	</div>
-    </section>
+    </section> -->
 
     <section class="ftco-section testimony-section">
       <div class="container">
@@ -423,7 +423,7 @@
         				</div>
         				<div class="text">
 	        				<h3>Free Shipping</h3>
-	        				<p class="mb-0">Separated they live in. A small river named Duden flows</p>
+	        				<p class="mb-0">Free shipping to make your life better</p>
         				</div>
         			</div>
         			<div class="services-2 p-4 d-flex ftco-animate">
@@ -432,7 +432,7 @@
         				</div>
         				<div class="text">
 	        				<h3>Valuable Gifts</h3>
-	        				<p class="mb-0">Separated they live in. A small river named Duden flows</p>
+	        				<p class="mb-0">Great gifts for our customers</p>
 	        			</div>
         			</div>
         			<div class="services-2 p-4 d-flex ftco-animate">
@@ -441,7 +441,7 @@
         				</div>
         				<div class="text">
 	        				<h3>All Day Support</h3>
-	        				<p class="mb-0">Separated they live in. A small river named Duden flows</p>
+	        				<p class="mb-0">24/7 Support</p>
 	        			</div>
         			</div>
         			<div class="services-2 p-4 d-flex ftco-animate">
@@ -450,7 +450,7 @@
         				</div>
         				<div class="text">
 	        				<h3>All Day Support</h3>
-	        				<p class="mb-0">Separated they live in. A small river named Duden flows</p>
+	        				<p class="mb-0">24/7 Support</p>
 	        			</div>
         			</div>
         		</div>
@@ -458,7 +458,7 @@
           <div class="col-lg-7">
           	<div class="heading-section ftco-animate mb-5">
 	            <h2 class="mb-4">Our satisfied customer says</h2>
-	            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+	            <p>IZabelo Minishop is the places you can go to</p>
 	          </div>
             <div class="carousel-testimony owl-carousel">
               <div class="item">
@@ -469,8 +469,8 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-4 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Garreth Smith</p>
+                    <p class="mb-4 pl-4 line"> You will never go wrong with IZabelo MiniShop.</p>
+                    <p class="name">Kuhle Mhlongo</p>
                     <span class="position">Marketing Manager</span>
                   </div>
                 </div>
@@ -483,8 +483,8 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-4 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Garreth Smith</p>
+                    <p class="mb-4 pl-4 line">IZabelo Minishop is the places you can go to.</p>
+                    <p class="name">Siphesihle Mhlongo</p>
                     <span class="position">Interface Designer</span>
                   </div>
                 </div>
@@ -497,8 +497,8 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-4 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Garreth Smith</p>
+                    <p class="mb-4 pl-4 line">IZabelo Minishop is the way.</p>
+                    <p class="name">Kanneth Smith</p>
                     <span class="position">UI Designer</span>
                   </div>
                 </div>
@@ -511,8 +511,8 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-4 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Garreth Smith</p>
+                    <p class="mb-4 pl-4 line">Whenever you think of buying clothes IZabelo Minishop is the best i am not regreting myself.</p>
+                    <p class="name">Smith khoza</p>
                     <span class="position">Web Developer</span>
                   </div>
                 </div>
@@ -525,8 +525,8 @@
                     </span>
                   </div>
                   <div class="text">
-                    <p class="mb-4 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Garreth Smith</p>
+                    <p class="mb-4 pl-4 line">I am Happy to shop here.</p>
+                    <p class="name">Zemvelo Mhlongo</p>
                     <span class="position">System Analyst</span>
                   </div>
                 </div>
