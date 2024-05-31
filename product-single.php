@@ -99,8 +99,8 @@
 							</p>
 						</div>
     				<p class="price"><span>R120.00</span></p>
-    				<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-    				<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.
+    				<p>At IZabelo MiniShop, our vision is to become the leading online shopping destination for everyday essentials, offering a seamless, enjoyable, and personalized shopping experience. We strive to empower our customers with convenience, variety, and affordability, while maintaining the highest standards of quality and service.</p>
+    				<p>Through innovation and customer-centricity, we aim to transform the online retail landscape, making shopping easier and more accessible for everyone.
 						</p>
 						<div class="row mt-4">
 							<div class="col-md-6">
@@ -160,14 +160,14 @@
               <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="day-1-tab">
               	<div class="p-4">
 	              	<h3 class="mb-4">Dress 2024 ID</h3>
-	              	<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+	              	<p>This elegant dress is perfect for any occasion, from casual outings to formal events. Crafted with high-quality materials, it offers both comfort and style. The dress features a flattering silhouette that enhances your natural shape, while the timeless design ensures you’ll look chic and sophisticated. Available in a variety of colors and sizes, this dress is a versatile addition to any wardrobe.</p>
               	</div>
               </div>
 
               <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-day-2-tab">
               	<div class="p-4">
-	              	<h3 class="mb-4">Manufactured By Nike</h3>
-	              	<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+	              	<h3 class="mb-4">Manufactured By IZabelo</h3>
+	              	<p>This dress is proudly manufactured by IZabelo, ensuring the highest standards of quality and craftsmanship. Our dresses are made in our state-of-the-art facility located in Durban, South Africa, where we use the latest technology and sustainable practices to create beautiful, durable garments. </p>
               	</div>
               </div>
               <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-day-3-tab">
@@ -178,8 +178,8 @@
 								   		<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
 								   		<div class="desc">
 								   			<h4>
-								   				<span class="text-left">Jacob Webb</span>
-								   				<span class="text-right">14 March 2018</span>
+								   				<span class="text-left">Jacob smith</span>
+								   				<span class="text-right">20 March 2024</span>
 								   			</h4>
 								   			<p class="star">
 								   				<span>
@@ -191,7 +191,7 @@
 							   					</span>
 							   					<span class="text-right"><a href="#" class="reply"><i class="icon-reply"></i></a></span>
 								   			</p>
-								   			<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrov</p>
+								   			<p>Perfect Dress you can get </p>
 								   		</div>
 								   	</div>
 								   	<div class="review">
@@ -199,7 +199,7 @@
 								   		<div class="desc">
 								   			<h4>
 								   				<span class="text-left">Jacob Webb</span>
-								   				<span class="text-right">14 March 2018</span>
+								   				<span class="text-right">14 March 2024</span>
 								   			</h4>
 								   			<p class="star">
 								   				<span>
@@ -211,15 +211,15 @@
 							   					</span>
 							   					<span class="text-right"><a href="#" class="reply"><i class="icon-reply"></i></a></span>
 								   			</p>
-								   			<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrov</p>
+								   			<p>IZabelo Sells the Dresses of our dream</p>
 								   		</div>
 								   	</div>
 								   	<div class="review">
 								   		<div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
 								   		<div class="desc">
 								   			<h4>
-								   				<span class="text-left">Jacob Webb</span>
-								   				<span class="text-right">14 March 2018</span>
+								   				<span class="text-left">Kuhle Webb</span>
+								   				<span class="text-right">14 March 2024</span>
 								   			</h4>
 								   			<p class="star">
 								   				<span>
@@ -231,7 +231,7 @@
 							   					</span>
 							   					<span class="text-right"><a href="#" class="reply"><i class="icon-reply"></i></a></span>
 								   			</p>
-								   			<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrov</p>
+								   			<p>Best Dresses</p>
 								   		</div>
 								   	</div>
 						   		</div>

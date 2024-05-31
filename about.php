@@ -52,8 +52,8 @@
     <section class="ftco-section ftco-no-pb ftco-no-pt bg-light">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/about.jpg);">
-						<a href="https://vimeo.com/45830194" class="icon popup-vimeo d-flex justify-content-center align-items-center">
+					<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/kuhle3.jpg);">
+						<a href="https://youtu.be/DMlxVOisJBM" class="icon popup-vimeo d-flex justify-content-center align-items-center">
 							<span class="icon-play"></span>
 						</a>
 					</div>
@@ -64,8 +64,8 @@
 	            </div>
 	          </div>
 	          <div class="pb-md-5 pb-4">
-							<p>But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
-							<p>But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her.</p>
+							<p>At IZabelo MiniShop, our vision is to become the leading online shopping destination for everyday essentials, offering a seamless, enjoyable, and personalized shopping experience. We strive to empower our customers with convenience, variety, and affordability, while maintaining the highest standards of quality and service.</p>
+							<p>Through innovation and customer-centricity, we aim to transform the online retail landscape, making shopping easier and more accessible for everyone</p>
 							<p><a href="#" class="btn btn-primary">Shop now</a></p>
 						</div>
 					</div>
@@ -74,7 +74,7 @@
 		</section>
 
     <section class="ftco-section testimony-section">
-      <div class="container">
+      <!-- <div class="container">
         <div class="row">
         	<div class="col-lg-5">
         		<div class="services-flow">
@@ -195,7 +195,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </section>
 
     <cms:embed 'topfooter.html' />
